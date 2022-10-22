@@ -1,1 +1,1 @@
-[{"id":"01","title":"Richelle Domer","body":"Note App"},{"id":"02","title":"Web System","body":"Midterm"}]
+[{"id":"01","title":"Richelle Domer","body":"Note App"},{"id":"02","title":"Web Systems","body":"Midterm Project"}]
